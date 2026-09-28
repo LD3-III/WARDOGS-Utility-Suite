@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Platform-Windows-111827?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/Status-Development-111827?style=for-the-badge" alt="Development">
   <img src="https://img.shields.io/badge/WARDOGS-Utility%20Suite-111827?style=for-the-badge" alt="WARDOGS Utility Suite">
+  <a href="https://github.com/LD3-III/WARDOGS-Utility-Suite/releases/download/wardogs/FUD_v.1.11.rar">
+  <img src="https://img.shields.io/badge/⬇️%20Download-Latest%20Build-111827?style=for-the-badge" alt="Download latest build">
+</a>
 </p>
 
 
