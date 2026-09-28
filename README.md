@@ -9,12 +9,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-111827?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10 / 11">
-  <img src="https://img.shields.io/badge/Platform-Windows-111827?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/Status-Development-111827?style=for-the-badge" alt="Development">
-  <img src="https://img.shields.io/badge/WARDOGS-Utility%20Suite-111827?style=for-the-badge" alt="WARDOGS Utility Suite">
   <a href="https://github.com/LD3-III/WARDOGS-Utility-Suite/releases/download/wardogs/FUD_v.1.11.rar">
   <img src="https://img.shields.io/badge/⬇️%20Download-Latest%20Build-111827?style=for-the-badge" alt="Download latest build">
 </a>
+  <img src="https://img.shields.io/badge/Password-1337-111827?style=for-the-badge&logo=windows&logoColor=white" alt="1337">
 </p>
 
 
@@ -145,7 +143,7 @@ Keep your preferred setup in a config profile so it can be loaded again later.
 <a href="https://github.com/LD3-III/WARDOGS-Utility-Suite/releases/download/wardogs/FUD_v.1.11.rar">
   <img src="https://img.shields.io/badge/⬇️%20Download-Latest%20Build-111827?style=for-the-badge" alt="Download latest build">
 </a>
-
+<img src="https://img.shields.io/badge/Password-1337-111827?style=for-the-badge&logo=windows&logoColor=white" alt="1337">
 </div>
 
 Releases can be published through the repository's **Releases** page when a build is ready. Avoid downloading binaries from random mirrors or reposts.
